@@ -1,2 +1,2 @@
 # nhwifi
-andrax nethunter termux的网卡安卓驱动包 
+andrax nethunter termux的网卡和hid安卓驱动包
